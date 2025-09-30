@@ -1,6 +1,9 @@
 # 3D Section
 This project is a **single section** built with **React.js**, **TailwindCSS**, and **Spline**, focusing on displaying an interactive **3D shape** inside a modern, responsive layout.
 
+## 🎯 Domain
+https://stunning3d.vercel.app/
+
 ## 🎯 Purpose
 Created as a training exercise to practice embedding and working with 3D models in a React project.
 
